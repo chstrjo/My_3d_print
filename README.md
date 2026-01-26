@@ -11,7 +11,7 @@
 * файл-gcode. (для моего принтера)
 
 # Заглушка для сервера.
-[Скачать модель "Заглушка для сервера".](https://github.com/chstrjo/My_3d_print/blob/main/project_files/Zaglyshka_for_server.rar "Скачать модель "Заглушка для сервера".")
+[Скачать модель "Заглушка для сервера".](https://github.com/chstrjo/My_3d_print/blob/main/project_files/Zaglyshka_for_server.rar "Скачать модель Заглушка для сервера")
 
 # Крышка Ø48 мм для бутылки.
 
