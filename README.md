@@ -12,8 +12,7 @@
 
 # Заглушка для сервера.
 
-<a href="[file.zip](https://github.com/chstrjo/My_3d_print/blob/main/project_files/Zaglyshka_for_server.rar)" download target="_blank">Скачать модель "Заглушка для сервера"</a>
-
+<a href="Zaglyshka_for_server.rar" download="https://github.com/chstrjo/My_3d_print/blob/main/project_files/">Скачать модель Заглушка для сервера</a>
 
 <!--  [Скачать модель "Заглушка для сервера".](https://github.com/chstrjo/My_3d_print/blob/main/project_files/Zaglyshka_for_server.rar "Скачать модель Заглушка для сервера")-->
 
